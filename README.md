@@ -18,7 +18,7 @@ the outer most layer is app layer, only this layer depends on android sdk
 * Navigation component
 * xml
 ## Screenshots
-  ![Screenshot_20231126_181748](https://github.com/hamdy-mameen/Note-app/assets/54679951/71e32c80-2ce2-4d61-a23e-8a5aa4da4c28)
+  <img src="https://github.com/hamdy-mameen/Note-app/assets/54679951/71e32c80-2ce2-4d61-a23e-8a5aa4da4c28" width="200" />
   ![Screenshot_20231126_181803](https://github.com/hamdy-mameen/Note-app/assets/54679951/3848ffeb-1c25-46ff-96f2-544740f2be40)
   ![Screenshot_20231126_182157](https://github.com/hamdy-mameen/Note-app/assets/54679951/5625fb78-cb21-4efa-8df0-4c5c21e3fa75)
 # How to install the project
