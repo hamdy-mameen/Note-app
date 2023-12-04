@@ -14,7 +14,7 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.domain.Note
+import com.example.domain.model.Note
 import com.example.notesapp.R
 import com.example.notesapp.databinding.NotesFragmentBinding
 import com.google.android.material.snackbar.Snackbar

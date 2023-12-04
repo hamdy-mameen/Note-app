@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.AsyncListDiffer
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
-import com.example.domain.Note
+import com.example.domain.model.Note
 import com.example.notesapp.databinding.NotesItemBinding
 import java.time.Instant
 import java.time.Year

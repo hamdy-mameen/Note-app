@@ -10,7 +10,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
-import com.example.domain.Note
+import com.example.domain.model.Note
 import com.example.notesapp.R
 import com.example.notesapp.databinding.NewNoteFragmentBinding
 import com.example.notesapp.presentation.notes.NotesViewModel

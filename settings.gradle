@@ -16,4 +16,3 @@ rootProject.name = "Notes App"
 include ':app'
 include ':domain'
 include ':data'
-include ':usecases'
