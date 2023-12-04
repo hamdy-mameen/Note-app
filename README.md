@@ -2,9 +2,10 @@
 a Note app in kotlin that apply clean architecture design
 
 # Description
-Note app is a clean architecture app, it has three layers domain, data, usecases and app layers. 
+Note app is a clean architecture app, it has three layers domain, data and app layers. 
 from inner most layer to outer one, the inner is the most abstract one "domain".
-data and usecases resident in the same layer so usescase can access data for each case 
+domain contains models,usecases and repository interface for dependency inversion with data layer
+that implement this interface.
 the outer most layer is app layer, only this layer depends on android sdk 
 ## Technologies
 * Clean architecture
